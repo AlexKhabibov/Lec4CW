@@ -1,0 +1,15 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/bin/Debug/net6.0/CWtasks
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/bin/Debug/net6.0/CWtasks.deps.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/bin/Debug/net6.0/CWtasks.runtimeconfig.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/bin/Debug/net6.0/CWtasks.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/bin/Debug/net6.0/CWtasks.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/obj/Debug/net6.0/CWtasks.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/obj/Debug/net6.0/CWtasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/obj/Debug/net6.0/CWtasks.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/obj/Debug/net6.0/CWtasks.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/obj/Debug/net6.0/CWtasks.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/obj/Debug/net6.0/CWtasks.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/obj/Debug/net6.0/refint/CWtasks.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/obj/Debug/net6.0/CWtasks.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/obj/Debug/net6.0/CWtasks.genruntimeconfig.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 4. Рекурсия и двумерные массивы. Лекция 4/Lec4CW/CWtasks/obj/Debug/net6.0/ref/CWtasks.dll
